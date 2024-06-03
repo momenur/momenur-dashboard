@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Army Bike",
+        "photo": "https://f.ptcdn.info/803/036/000/nwv3692b80i5ZjyuTfI-o.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Girls Bike",
+        "photo": "https://img.freepik.com/free-photo/red-vintage-motorcycle_74190-3481.jpg?t=st=1695881272~exp=1695881872~hmac=d236d810e813b3659b5da88c11e8dc663489017277e4a55ba910a6b316a76a4f"
+    },
+    {
+        "id": 3,
+        "name": "Cycle",
+        "photo": "https://img.fruugo.com/product/9/87/187977879_max.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Toyota Car",
+        "photo": "https://img.freepik.com/free-vector/red-sedan-car-isolated-white-vector_53876-64366.jpg?t=st=1695956671~exp=1695957271~hmac=1e18e81dc93bc97b50a07e192344cc3aa789ff4324e7397e9c3633072295b381"
+    },
+    {
+        "id": 5,
+        "name": "BMW Car",
+        "photo": "https://img.freepik.com/free-vector/red-sports-car-black-background-vector_53876-67367.jpg?t=st=1695956671~exp=1695957271~hmac=02e0018dd51902cac8661de6697df856d3bafe618b587d823b93ce05754e9cff"
+    },
+    {
+        "id": 6,
+        "name": "Sport Car",
+        "photo": "https://img.freepik.com/free-vector/vintage-red-car_1053-312.jpg?t=st=1695956671~exp=1695957271~hmac=08cc7ccfcee362126e58e6f8c79991cb7a66f312f83da8df750763ef91f990c7"
+    },
+    {
+        "id": 7,
+        "name": "Army Jeep",
+        "photo": "https://img.freepik.com/free-photo/white-truck-with-word-gmc-front_1340-32461.jpg?t=st=1695957150~exp=1695960750~hmac=0d9a45f1c6ecc0fc72375c80da7ac719a8695a21d019c038d8550d61954911bc&w=1060"
+    },
+    {
+        "id": 8,
+        "name": "Police Jeep",
+        "photo": "https://img.freepik.com/free-photo/green-gmc-sierra-pickup-truck-driving-dirt-road-with-mountains-background_1340-32497.jpg?t=st=1695957079~exp=1695960679~hmac=2f5402b3021d2f0218ab5ee0f332867cb0c6f054120f877a22b6bfe86a3c7b31&w=1060"
+    },
+    {
+        "id": 9,
+        "name": "Hero's Jeep",
+        "photo": "https://img.freepik.com/free-vector/modern-red-urban-adventure-suv-vehicle-illustration_1344-195.jpg?t=st=1695956671~exp=1695957271~hmac=f436f690a4f4d3ace39e7deef6dfb9618523358fb355878ccc2f0f8fe79c2002"
+    }
+]
